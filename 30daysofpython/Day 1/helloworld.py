@@ -1,0 +1,22 @@
+print(3 + 4)
+print(4 - 3)
+print(3 * 4)
+print(4%3)
+print(3 / 4)
+print(3 ** 4)
+print(3 // 4)
+
+print("wisdom")
+print("ebong")
+print("nigeria")
+print("i am enjoying 30days of python")
+
+print(type(10))
+print(type(9.8))
+print(type(3.14))
+print(type(4-4j))
+print(type({'wisdom': 'python' 'nigeria'}))
+print(type("wisdom"))
+print(type("ebong"))
+print(type("nigeria"))
+
