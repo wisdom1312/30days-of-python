@@ -40,3 +40,35 @@ elif length_of_first_name < length_of_last_name:
     print("last name is longer than first name")
 else:
     print("first name and last name are equal length")
+
+num_one = 5
+num_two = 4
+total = num_one + num_two
+print(total)
+diff = num_two - num_one
+print(diff)
+product = num_two * num_one
+print(product)
+division = num_one / num_two
+print(division)
+remainder = num_two % num_one
+print(remainder)
+exp = num_one ** num_two
+print(exp)
+floor_division = num_one // num_two
+print(floor_division)
+
+import math
+radius = 30
+area_of_circle = math.pi * (radius ** 2)
+print(area_of_circle)
+
+import math
+radius = 30
+circumference_of_circle = 2 * math.pi * radius
+print(circumference_of_circle)
+
+import math
+radius = float(input(2827.4333882308138))
+area_of_circle = math.pi * (radius ** 2)
+print(area_of_circle)
